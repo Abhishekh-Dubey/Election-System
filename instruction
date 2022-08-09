@@ -1,0 +1,13 @@
+Follow the all steps
+
+Step 1
+    Open admin_db.py file from extra_fill
+Step 2
+    Run admin_db.py
+    1.Due to this process, your databace and its table will be created
+    2.And from that you will get the username and passwort of the admin
+    3.default username = abhi123 and password =abhi123
+
+Step 3
+    run start_page
+    And follow the instruction step by step in order in which the option are giver
